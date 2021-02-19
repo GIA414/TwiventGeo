@@ -1,4 +1,4 @@
-var defaultTopic = 'iphone6plus';
+var defaultTopic = 'iphone8';
 
 var availableTopics = ['#thanksgiving', 
 					   '#HappyBirthdayTaylorSwift', 
